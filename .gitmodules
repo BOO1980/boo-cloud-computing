@@ -1,0 +1,3 @@
+[submodule "boo-azure"]
+	path = boo-azure
+	url = https://github.com/BOO1980/boo-azure.git
