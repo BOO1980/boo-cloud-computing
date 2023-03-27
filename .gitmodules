@@ -1,3 +1,6 @@
 [submodule "boo-azure"]
 	path = boo-azure
 	url = https://github.com/BOO1980/boo-azure.git
+[submodule "boo-aws"]
+	path = boo-aws
+	url = https://github.com/BOO1980/boo-aws.git
